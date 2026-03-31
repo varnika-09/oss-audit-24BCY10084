@@ -1,6 +1,13 @@
 # oss-audit-24BCY10084
 OPEN SOURCE SOFTWARE
 
+**The Open Source Audit — Capstone Project**
+**Course:** Open Source Software (OSS NGMC)
+**Student:** Varnika Banerjee
+**Registration Number:** 24BCY10084
+**Slot:** A11
+**Date of Submission:** 31/03/2026
+
 WHAT THIS PROJECT IS ABOUT
 This is a capstone project for the Open Source Software course. 
 The goal is to pick one real open-source software project and conduct a structured, honest audit of it — not just describing what it does, but understanding why it was built, who built it, what freedoms its license gives users, what values it represents, and how it has influenced the world of software.
